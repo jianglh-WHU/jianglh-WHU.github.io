@@ -23,13 +23,19 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 
 # 🔥 News
+- 2023.07: 🎉 our [LandMark System](https://landmark.intern-ai.org.cn/) was released.
 - *2023.07*: &nbsp;🎉 one paper got accepted to [ICCV2023](https://iccv2023.thecvf.com/). 
-- 2023.07: 🎉 
 - 2023.06: 🎓 Graduated from Wuhan University.
 
 # 📝 Publications 
 
+(†: corresponding author; * :equal contribution)
 
+- MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond 
+
+  Yixuan Li*, **Lihan Jiang\***, Linning Xu, Yuanbo Xiangli, Bo Dai, Dahua Lin.
+
+  ICCV 2023
 
 # 🎖 Honors and Awards
 - Outstanding Graduate Student, WHU, 2023
