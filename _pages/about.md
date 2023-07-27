@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-I am currently a first-year Ph.D. student in ... supervised by Prof. Bo Dai and Prof. Dahua Lin. Previously, I obtained my B.Eng degree at [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University in 2023. My research interest lies in the field of 3D Computer Vision, particularly including point neural rendering and 3D reconstruction. If you are interested in my research, feel free to contact me at mr.lhjiang@gmail.com!
+I am currently a first-year Ph.D. student in ... supervised by Prof. Bo Dai and Prof. Dahua Lin. Previously, I obtained my B.Eng degree at [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University in 2023. My research interest lies in the field of 3D Computer Vision, particularly including neural rendering and city reconstruction. If you are interested in my research, feel free to contact me at mr.lhjiang@gmail.com!
 
 
 # 🔥 News
@@ -28,8 +28,12 @@ I am currently a first-year Ph.D. student in ... supervised by Prof. Bo Dai and 
 
 # 📝 Publications 
 
+
+
 # 🎖 Honors and Awards
-- 
+- Outstanding Graduate Student, WHU, 2023
+- The First Prize Scholarship, WHU, 2021
+- The First Prize Scholarship, WHU, 2020
 - China National Scholarships, 2021
 - China National Scholarships, 2020
 
@@ -40,4 +44,4 @@ I am currently a first-year Ph.D. student in ... supervised by Prof. Bo Dai and 
 
 
 # 💻 Internships
-- *2022.05 - 2022.11*, 
+- *2022.05 - 2022.11*, in [AIR, Tsinghua University](https://air.tsinghua.edu.cn/en/)
