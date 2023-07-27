@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lihan Jiang"
-description              : "A Phd in Shanghai AI Laboratory"
+title                    : "Lihan Jiang (江力涵)"
+description              : "Ph.D. Student in Shanghai AI Laboratory"
 repository               : "jianglh-WHU.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lihan Jiang (江力涵)"
+  name             : "Lihan Jiang"
   avatar           : "images/avatar.jpg"
   bio              : 
-  location         : "Shanghai, China"
+  location         : "Shanghai / Ningbo"
   employer         :
   pubmed           : 
   googlescholar    : 
