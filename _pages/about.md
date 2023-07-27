@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am currently a first-year Ph.D. student at [USTC](https://www.ustc.edu.cn/) and [Shanghai AI Laboratory](https://www.shlab.org.cn/). I am co-supervised by [Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm), [Bo Dai](https://daibo.info/), and [Dahua Lin](http://dahua.site/). Previously, I obtained my B.Eng. degree at [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University in 2023. 
 
-
-I am currently a first-year Ph.D. student in ... supervised by Prof. Bo Dai and Prof. Dahua Lin. Previously, I obtained my B.Eng degree at [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University in 2023. My research interest lies in the field of 3D Computer Vision, particularly including neural rendering and city reconstruction. If you are interested in my research, feel free to contact me at mr.lhjiang@gmail.com!
+My research interest lies in the field of 3D Computer Vision, particularly neural rendering for large-scale scenes.
 
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉 one paper got accepted to [ICCV2023](https://iccv2023.thecvf.com/). 
+- 2023.07: 🎉 
 - 2023.06: 🎓 Graduated from Wuhan University.
 
 # 📝 Publications 
@@ -32,10 +33,10 @@ I am currently a first-year Ph.D. student in ... supervised by Prof. Bo Dai and 
 
 # 🎖 Honors and Awards
 - Outstanding Graduate Student, WHU, 2023
-- The First Prize Scholarship, WHU, 2021
-- The First Prize Scholarship, WHU, 2020
 - China National Scholarships, 2021
 - China National Scholarships, 2020
+- The First Prize Scholarship, WHU, 2021
+- The First Prize Scholarship, WHU, 2020
 
 # 📖 Educations
 - Ph.D. in Control Science and Engineering of [University of Science and Technology of China](https://www.ustc.edu.cn/), 2023.09 - present
