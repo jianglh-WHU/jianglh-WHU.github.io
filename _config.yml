@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lihan Jiang"
-description              : "Phd in Shanghai AI Laboratory"
+description              : "A Phd in Shanghai AI Laboratory"
 repository               : "jianglh-WHU.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lihan Jiang"
+  name             : "Lihan Jiang (江力涵)"
   avatar           : "images/avatar.jpg"
-  bio              : "江力涵"
+  bio              : 
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
