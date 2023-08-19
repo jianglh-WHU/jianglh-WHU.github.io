@@ -27,7 +27,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 - *2023.07*: 🎉 one paper got accepted to [ICCV2023](https://iccv2023.thecvf.com/). 
 - 2023.06: 🎓 Graduated from Wuhan University.
 
-# ✍🏼 Pre-prints
+# ✏️ Pre-prints
 
 (†: corresponding author; * :equal contribution)
 
