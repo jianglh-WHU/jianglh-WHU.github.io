@@ -31,23 +31,25 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 (†: corresponding author; * :equal contribution)
 
-PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection. [[**Project**]](https://github.com/EricLee0224/PAD)
+- PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection. [[**Project**]](https://github.com/EricLee0224/PAD)
 
-Qiang Zhou*, Weize Li\*, **Lihan Jiang**, Guoliang Wang, Guyue Zhou, Shanghang Zhang, Hao Zhao.
+  Qiang Zhou*, **Weize Li\***, Lihan Jiang, Guoliang Wang, Guyue Zhou, Shanghang Zhang, Hao Zhao.
 
-Under Review: NeurIPS’23 D&B Track
+  Under Review: NeurIPS’23 D&B Track
 
 # 📝 Publications 
 
 (†: corresponding author; * :equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iccv 2023</div><img src='../images/matrixcity.jpg' alt="sym" width="30%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iccv 2023</div><img src='../images/matrixcity.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond 
 
 Yixuan Li*, **Lihan Jiang\***, Linning Xu, Yuanbo Xiangli, Zhengzhi Wang, Bo Dai, Dahua Lin. [[**Project**]](https://city-super.github.io/matrixcity/)
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - Outstanding Graduate Student, WHU, 2023
