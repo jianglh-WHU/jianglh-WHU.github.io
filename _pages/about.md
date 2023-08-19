@@ -27,6 +27,16 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 - *2023.07*: 🎉 one paper got accepted to [ICCV2023](https://iccv2023.thecvf.com/). 
 - 2023.06: 🎓 Graduated from Wuhan University.
 
+# :book: Pre-prints
+
+(†: corresponding author; * :equal contribution)
+
+PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection. [[**Project**]](https://github.com/EricLee0224/PAD)
+
+Qiang Zhou*, Weize Li\*, **Lihan Jiang**, Guoliang Wang, Guyue Zhou, Shanghang Zhang, Hao Zhao.
+
+Under Review: NeurIPS’23 D&B Track
+
 # 📝 Publications 
 
 (†: corresponding author; * :equal contribution)
@@ -37,7 +47,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond 
 
-Yixuan Li*, **Lihan Jiang\***, Linning Xu, Yuanbo Xiangli, Zhengzhi Wang, Bo Dai, Dahua Lin. [**Project**](https://city-super.github.io/matrixcity/)
+Yixuan Li*, **Lihan Jiang\***, Linning Xu, Yuanbo Xiangli, Zhengzhi Wang, Bo Dai, Dahua Lin. [[**Project**]](https://city-super.github.io/matrixcity/)
 
 # 🎖 Honors and Awards
 - Outstanding Graduate Student, WHU, 2023
