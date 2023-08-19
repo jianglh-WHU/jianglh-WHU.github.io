@@ -27,15 +27,21 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 - *2023.07*: 🎉 one paper got accepted to [ICCV2023](https://iccv2023.thecvf.com/). 
 - 2023.06: 🎓 Graduated from Wuhan University.
 
-# :book: Pre-prints
+# ✍🏼 Pre-prints
 
 (†: corresponding author; * :equal contribution)
 
-- PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection. [[**Project**]](https://github.com/EricLee0224/PAD)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review: NeurIPS’23 D&B Track </div><img src='../images/pad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  Qiang Zhou*, **Weize Li\***, Lihan Jiang, Guoliang Wang, Guyue Zhou, Shanghang Zhang, Hao Zhao.
+PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection. [[**Project**]](https://github.com/EricLee0224/PAD)
 
-  Under Review: NeurIPS’23 D&B Track
+Qiang Zhou*, Weize Li*, **Lihan Jiang**, Guoliang Wang, Guyue Zhou, Shanghang Zhang, Hao Zhao.
+
+Under Review: NeurIPS’23 D&B Track
+
+</div>
+</div>
 
 # 📝 Publications 
 
