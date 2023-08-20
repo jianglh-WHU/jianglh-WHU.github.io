@@ -36,9 +36,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection. [[**Project**]](https://github.com/EricLee0224/PAD)
 
-Qiang Zhou*, Weize Li*, **Lihan Jiang**, Guoliang Wang, Guyue Zhou, Shanghang Zhang, Hao Zhao.
-
-Under Review: NeurIPS’23 D&B Track
+Qiang Zhou\*, Weize Li\*, **Lihan Jiang**, Guoliang Wang, Guyue Zhou, Shanghang Zhang, Hao Zhao.
 
 </div>
 </div>
@@ -50,9 +48,9 @@ Under Review: NeurIPS’23 D&B Track
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iccv 2023</div><img src='../images/matrixcity.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond 
+MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond. [[**Project**]](https://city-super.github.io/matrixcity/)
 
-Yixuan Li*, **Lihan Jiang\***, Linning Xu, Yuanbo Xiangli, Zhengzhi Wang, Bo Dai, Dahua Lin. [[**Project**]](https://city-super.github.io/matrixcity/)
+Yixuan Li*, **Lihan Jiang\***, Linning Xu, Yuanbo Xiangli, Zhengzhi Wang, Bo Dai, Dahua Lin. 
 
 </div>
 </div>
