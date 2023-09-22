@@ -23,16 +23,16 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 
 # 🔥 News
-- 2023.09: 🎉 one paper got accepted to [NeurIPS’23 D&B Track](https://nips.cc/Conferences/2023/CallForDatasetsBenchmarks). 
+- 2023.09: 🎉 one paper got accepted to [NeurIPS 2023 D&B Track](https://nips.cc/Conferences/2023/CallForDatasetsBenchmarks). 
 - 2023.07: 🎉 our [LandMark System](https://landmark.intern-ai.org.cn/) was released.
-- *2023.07*: 🎉 one paper got accepted to [ICCV2023](https://iccv2023.thecvf.com/). 
+- *2023.07*: 🎉 one paper got accepted to [ICCV 2023](https://iccv2023.thecvf.com/). 
 - 2023.06: 🎓 Graduated from Wuhan University.
 
 # 📝 Publications 
 
 (†: corresponding author; * :equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS’23 D&B Track </div><img src='../images/pad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 D&B Track </div><img src='../images/pad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -43,12 +43,13 @@ Qiang Zhou\*, Weize Li\*, **Lihan Jiang**, Guoliang Wang, Guyue Zhou, Shanghang 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iccv 2023</div><img src='../images/matrixcity.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='../images/matrixcity.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond. [[**Project**]](https://city-super.github.io/matrixcity/)
 
-Yixuan Li*, **Lihan Jiang\***, Linning Xu, Yuanbo Xiangli, Zhengzhi Wang, Bo Dai, Dahua Lin. 
+Yixuan Li*, **Lihan Jiang\***, Linning Xu, Yuanbo Xiangli, Zhengzhi Wang, Dahua Lin, Bo Dai. 
 
 </div>
 </div>
