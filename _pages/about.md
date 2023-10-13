@@ -36,7 +36,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 <div class='paper-box-text' markdown="1">
 
 
-PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection. [[**Project**]](https://github.com/EricLee0224/PAD)
+PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection. [[**Project**]](https://github.com/EricLee0224/PAD) [[**Paper**]](https://arxiv.org/pdf/2310.07716.pdf)
 
 Qiang Zhou\*, Weize Li\*, **Lihan Jiang**, Guoliang Wang, Guyue Zhou, Shanghang Zhang, Hao Zhao.
 
@@ -47,7 +47,7 @@ Qiang Zhou\*, Weize Li\*, **Lihan Jiang**, Guoliang Wang, Guyue Zhou, Shanghang 
 <div class='paper-box-text' markdown="1">
 
 
-MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond. [[**Project**]](https://city-super.github.io/matrixcity/)
+MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond. [[**Project**]](https://city-super.github.io/matrixcity/) [[**Paper**]](https://arxiv.org/pdf/2309.16553v1.pdf)
 
 Yixuan Li*, **Lihan Jiang\***, Linning Xu, Yuanbo Xiangli, Zhengzhi Wang, Dahua Lin, Bo Dai. 
 
