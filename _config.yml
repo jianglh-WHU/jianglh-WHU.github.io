@@ -27,7 +27,7 @@ author:
   location         : "Shanghai / Ningbo"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AKKJWFdkmvkKRn_UfTSB70-94GGZcX18G1Y7rTGZRJ73jJLfwtWQEYbSE1eV6GMVO1Gggd9B89HblQUPN5228X3ioCI&user=JM2zk1AAAAAJ"
   email            : "mr.lhjiang@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/358/4168.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
