@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year Ph.D. student at [USTC](https://www.ustc.edu.cn/) and [Shanghai AI Laboratory](https://www.shlab.org.cn/). I am co-supervised by [Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm), [Bo Dai](https://daibo.info/), and [Dahua Lin](http://dahua.site/). Previously, I obtained my B.Eng. degree at [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University in 2023. 
+I am currently a second-year Ph.D. student at [USTC](https://www.ustc.edu.cn/) and [Shanghai AI Laboratory](https://www.shlab.org.cn/). I am co-supervised by [Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm), [Bo Dai](https://daibo.info/), and [Dahua Lin](http://dahua.site/). Previously, I obtained my B.Eng. degree at [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University in 2023. 
 
 My research interest lies in the field of 3D Computer Vision, particularly neural rendering for large-scale scenes.
 
 
 # 🔥 News
+- 2024.09: 🎉 one paper got accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024). 
 - 2023.09: 🎉 one paper got accepted to [NeurIPS 2023 D&B Track](https://nips.cc/Conferences/2023/CallForDatasetsBenchmarks). 
 - 2023.07: 🎉 our [LandMark System](https://landmark.intern-ai.org.cn/) was released.
 - *2023.07*: 🎉 one paper got accepted to [ICCV 2023](https://iccv2023.thecvf.com/). 
@@ -33,9 +34,9 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 (†: corresponding author; * :equal contribution)
 
 <!-- Octree-GS -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='../images/octree-gs.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**
 
 [Kerui Ren*](https://github.com/tongji-rkr),
@@ -55,7 +56,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 <!-- Octree-GS -->
 
 <!-- GSDF -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='../images/GSDF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../images/GSDF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GSDF: 3DGS Meets SDF for Improved Rendering and Reconstruction**
@@ -134,6 +135,8 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 - B.S. in Geodesy and Geomatics Engineering of [Wuhan University](https://www.whu.edu.cn/), 2019.09 - 2023.06
   - GPA: 3.95/4.00, Rank: 1/225
 
-
+# 🧐 Reviewer
+- NeurIPS24, ICLR24, EuroGraphics25
+  
 # 💻 Internships
 - *2022.05 - 2022.11*, in [AIR, Tsinghua University](https://air.tsinghua.edu.cn/en/)
