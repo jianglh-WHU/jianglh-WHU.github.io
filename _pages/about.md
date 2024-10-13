@@ -135,7 +135,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 - B.S. in Geodesy and Geomatics Engineering of [Wuhan University](https://www.whu.edu.cn/), 2019.09 - 2023.06
   - GPA: 3.95/4.00, Rank: 1/225
 
-# 🧐 Reviewer
+# 🧐 Reviewers
 - NeurIPS24, ICLR24, EuroGraphics25
   
 # 💻 Internships
