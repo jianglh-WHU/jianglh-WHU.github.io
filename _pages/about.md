@@ -33,6 +33,30 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 (†: corresponding author; * :equal contribution)
 
+<!-- Horizon-GS -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='../images/horizon-gs.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Horizon-GS: Unified 3D Gaussian Splatting for Large-Scale Aerial-to-Ground Scenes**
+
+**Lihan Jiang\***,
+[Kerui Ren*](https://github.com/tongji-rkr),
+[Mulin Yu](https://scholar.google.com/citations?user=w0Od3hQAAAAJ),
+[Linning Xu](https://eveneveno.github.io/lnxu),
+[Junting Dong](https://jtdong.com/),
+[Tao Lu](https://inspirelt.github.io/),
+[Feng Zhao](https://scholar.google.co.uk/citations?user=r6CvuOUAAAAJ&hl=en),
+[Dahua Lin](http://dahua.site/),
+[Bo Dai<sup>†</sup>](https://daibo.info/)
+
+[[**Project**]](https://city-super.github.io/horizon-gs/)&nbsp;
+[[**Paper**]]()&nbsp;
+[[**Code**]]()
+
+</div>
+</div>
+<!-- Horizon-GS -->
+
 <!-- Octree-GS -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='../images/octree-gs.jpg' alt="sym" width="100%"></div></div>
