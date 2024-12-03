@@ -50,7 +50,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 [Bo Dai<sup>†</sup>](https://daibo.info/)
 
 [[**Project**]](https://city-super.github.io/horizon-gs/)&nbsp;
-[[**Paper**]]()&nbsp;
+[[**Paper**]](https://arxiv.org/pdf/2412.01745)&nbsp;
 [[**Code**]]()
 
 </div>
