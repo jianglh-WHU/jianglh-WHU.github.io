@@ -160,7 +160,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
   - GPA: 3.95/4.00, Rank: 1/225
 
 # 🧐 Reviewer
-- NeurIPS24, ICLR25, EuroGraphics25
+- NeurIPS24, ICLR25, EuroGraphics25, CVPR25, ICML25
   
 # 💻 Internships
 - *2022.05 - 2022.11*, in [AIR, Tsinghua University](https://air.tsinghua.edu.cn/en/)
