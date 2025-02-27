@@ -23,6 +23,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 
 # 🔥 News
+- 2025.02: 🎉 two papers got accepted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025). 
 - 2024.09: 🎉 one paper got accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024). 
 - 2023.09: 🎉 one paper got accepted to [NeurIPS 2023 D&B Track](https://nips.cc/Conferences/2023/CallForDatasetsBenchmarks). 
 - 2023.07: 🎉 our [LandMark System](https://landmark.intern-ai.org.cn/) was released.
@@ -33,9 +34,30 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 (†: corresponding author; * :equal contribution)
 
+<!-- Scene4U -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/Scene4U.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration**
+[Zilong Huang](https://openreview.net/profile?id=~Zilong_Huang2),
+[Jun He](https://scholar.google.com/citations?user=ktFT40UAAAAJ&hl=zh-CN),
+[Junyan Ye](https://scholar.google.com/citations?user=6IbGkd4AAAAJ&hl=en), 
+**Lihan Jiang\***,
+[Weijia Li](https://liweijia.github.io/), 
+[Yiping Chen](https://scholar.google.com/citations?user=e9lv2fUAAAAJ&hl=en), 
+[Ting Han](https://scholar.google.com/citations?user=IVWx-jwAAAAJ&hl=zh-CN)
+
+[[**Project**]]()&nbsp;
+[[**Paper**]]()&nbsp;
+[[**Code**]]()
+
+</div>
+</div>
+<!-- Scene4U -->
+
 <!-- Horizon-GS -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='../images/horizon-gs.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/horizon-gs.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Horizon-GS: Unified 3D Gaussian Splatting for Large-Scale Aerial-to-Ground Scenes**
 
@@ -159,8 +181,11 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 - B.S. in Geodesy and Geomatics Engineering of [Wuhan University](https://www.whu.edu.cn/), 2019.09 - 2023.06
   - GPA: 3.95/4.00, Rank: 1/225
 
-# 🧐 Reviewer
-- NeurIPS24, ICLR25, EuroGraphics25, CVPR25, ICML25
+# 🧐 Community Services
+
+**Reviewer**
+
+- NeurIPS24, ICLR25, EuroGraphics25, CVPR25, ICML25, SIGGRAPH25, ICCV 25
   
 # 💻 Internships
 - *2022.05 - 2022.11*, in [AIR, Tsinghua University](https://air.tsinghua.edu.cn/en/)
