@@ -39,10 +39,11 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/Scene4U.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration**
+
 [Zilong Huang](https://openreview.net/profile?id=~Zilong_Huang2),
 [Jun He](https://scholar.google.com/citations?user=ktFT40UAAAAJ&hl=zh-CN),
 [Junyan Ye](https://scholar.google.com/citations?user=6IbGkd4AAAAJ&hl=en), 
-**Lihan Jiang\***,
+**Lihan Jiang**,
 [Weijia Li](https://liweijia.github.io/), 
 [Yiping Chen](https://scholar.google.com/citations?user=e9lv2fUAAAAJ&hl=en), 
 [Ting Han](https://scholar.google.com/citations?user=IVWx-jwAAAAJ&hl=zh-CN)
