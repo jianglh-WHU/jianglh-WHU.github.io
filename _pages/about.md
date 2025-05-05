@@ -23,6 +23,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 
 # 🔥 News
+- 2025.05: 🎉 one paper got accepted to [TPAMI 2025](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34). 
 - 2025.02: 🎉 two papers got accepted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025). 
 - 2024.09: 🎉 one paper got accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024). 
 - 2023.09: 🎉 one paper got accepted to [NeurIPS 2023 D&B Track](https://nips.cc/Conferences/2023/CallForDatasetsBenchmarks). 
@@ -82,7 +83,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 <!-- Octree-GS -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='../images/octree-gs.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='../images/octree-gs.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**
 
