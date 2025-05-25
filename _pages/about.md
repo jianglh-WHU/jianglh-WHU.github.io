@@ -23,6 +23,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 
 # 🔥 News
+- 2025.05: 🎉 one paper got accepted to [SIGGRAPH 2025](https://s2025.siggraph.org/). 
 - 2025.05: 🎉 one paper got accepted to [TPAMI 2025](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34). 
 - 2025.02: 🎉 two papers got accepted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025). 
 - 2024.09: 🎉 one paper got accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024). 
@@ -34,6 +35,27 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 # 📝 Publications 
 
 (†: corresponding author; * :equal contribution)
+
+<!-- V3DG -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='../images/V3DG.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Virtualized 3D Gaussians: Flexible Cluster-based Level-of-Detail System for Real-Time Rendering of Composed Scenes**
+
+[Xijie Yang](https://openreview.net/profile?id=~Zilong_Huang2),
+[Linning Xu](https://eveneveno.github.io/lnxu),
+**Lihan Jiang**,
+[Dahua Lin](http://dahua.site/), 
+[Bo Dai<sup>†</sup>](https://daibo.info/), 
+
+[[**Project**]](https://xijie-yang.github.io/V3DG/)&nbsp;
+[[**Paper**]](https://arxiv.org/pdf/2505.06523)&nbsp;
+[[**Code**]](https://github.com/city-super/V3DG)
+
+</div>
+</div>
+<!-- V3DG -->
+
 
 <!-- Scene4U -->
 
