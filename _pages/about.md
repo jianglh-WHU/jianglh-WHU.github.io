@@ -42,7 +42,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 <div class='paper-box-text' markdown="1">
 **Virtualized 3D Gaussians: Flexible Cluster-based Level-of-Detail System for Real-Time Rendering of Composed Scenes**
 
-[Xijie Yang](https://openreview.net/profile?id=~Zilong_Huang2),
+[Xijie Yang](https://yang-xijie.github.io/),
 [Linning Xu](https://eveneveno.github.io/lnxu),
 **Lihan Jiang**,
 [Dahua Lin](http://dahua.site/), 
