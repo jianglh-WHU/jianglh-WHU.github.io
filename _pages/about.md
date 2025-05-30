@@ -46,7 +46,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 [Yucheng Mao*](https://myc634.github.io/yuchengmao/),
 [Linning Xu](https://eveneveno.github.io/lnxu),
 [Tao Lu](https://inspirelt.github.io/),
-[Kerui Ren*](https://github.com/tongji-rkr),
+[Kerui Ren](https://github.com/tongji-rkr),
 [Yichen Jin](),
 [Xudong Xu](https://scholar.google.com.hk/citations?user=D8VMkA8AAAAJ&hl=en),
 [Mulin Yu](https://scholar.google.com/citations?user=w0Od3hQAAAAJ),
