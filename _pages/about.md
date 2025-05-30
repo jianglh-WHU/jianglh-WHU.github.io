@@ -36,6 +36,34 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 (†: corresponding author; * :equal contribution)
 
+<!-- AnySplat -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/anysplat.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views**
+
+**Lihan Jiang\***,
+[Yucheng Mao*](https://myc634.github.io/yuchengmao/)
+[Linning Xu](https://eveneveno.github.io/lnxu),
+[Tao Lu](https://inspirelt.github.io/),
+[Kerui Ren*](https://github.com/tongji-rkr),
+[Yichen Jin](),
+[Xudong Xu](https://scholar.google.com.hk/citations?user=D8VMkA8AAAAJ&hl=en)
+[Mulin Yu](https://scholar.google.com/citations?user=w0Od3hQAAAAJ),
+[Jiangmiao Pang](https://oceanpang.github.io/)
+[Feng Zhao](https://scholar.google.co.uk/citations?user=r6CvuOUAAAAJ&hl=en),
+[Dahua Lin](http://dahua.site/),
+[Bo Dai<sup>†</sup>](https://daibo.info/)
+
+[[**Project**]](https://city-super.github.io/anysplat/)&nbsp;
+[[**Paper**]](https://arxiv.org/pdf/2505.23716)&nbsp;
+[[**Code**]]()
+
+</div>
+</div>
+<!-- AnySplat -->
+
+
 <!-- V3DG -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2025</div><img src='../images/V3DG.jpeg' alt="sym" width="100%"></div></div>
@@ -72,7 +100,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 [Ting Han](https://scholar.google.com/citations?user=IVWx-jwAAAAJ&hl=zh-CN)
 
 [[**Project**]]()&nbsp;
-[[**Paper**]]()&nbsp;
+[[**Paper**]](https://arxiv.org/pdf/2504.00387)&nbsp;
 [[**Code**]]()
 
 </div>
@@ -97,7 +125,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 [[**Project**]](https://city-super.github.io/horizon-gs/)&nbsp;
 [[**Paper**]](https://arxiv.org/pdf/2412.01745)&nbsp;
-[[**Code**]]()
+[[**Code**]](https://github.com/OpenRobotLab/HorizonGS)
 
 </div>
 </div>
