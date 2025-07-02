@@ -23,6 +23,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 
 # 🔥 News
+- 2025.06: 🎉 one paper got accepted to [ICCV 2025](https://iccv.thecvf.com/Conferences/2025). 
 - 2025.05: 🎉 one paper got accepted to [SIGGRAPH 2025](https://s2025.siggraph.org/). 
 - 2025.05: 🎉 one paper got accepted to [TPAMI 2025](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34). 
 - 2025.02: 🎉 two papers got accepted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025). 
@@ -57,12 +58,35 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 [[**Project**]](https://city-super.github.io/anysplat/)&nbsp;
 [[**Paper**]](https://arxiv.org/pdf/2505.23716)&nbsp;
-[[**Code**]]()
+[[**Code**]](https://github.com/OpenRobotLab/AnySplat)
 
 </div>
 </div>
 <!-- AnySplat -->
 
+
+<!-- ObjectGS -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='../images/objectgs.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting**
+
+[Ruijie Zhu](https://ruijiezhu94.github.io/ruijiezhu/),
+[Mulin Yu](https://scholar.google.com/citations?user=w0Od3hQAAAAJ),
+[Linning Xu](https://eveneveno.github.io/lnxu),
+**Lihan Jiang**,
+[Yixuan Li](https://yixuanli98.github.io/),
+[Tianzhu Zhang](https://staff.ustc.edu.cn/~tzzhang/),
+[Jiangmiao Pang](https://oceanpang.github.io/), 
+[Bo Dai<sup>†</sup>](https://daibo.info/), 
+
+[[**Project**]](https://ruijiezhu94.github.io/ObjectGS_page/)&nbsp;
+[[**Paper**]]()&nbsp;
+[[**Code**]]()
+
+</div>
+</div>
+<!-- ObjectGS -->
 
 <!-- V3DG -->
 
