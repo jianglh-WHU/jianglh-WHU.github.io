@@ -23,6 +23,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 
 # 🔥 News
+- 2025.08: 🎉 one paper got accepted to [SIGGRAPH Asia 2025 (ACM TOG)](https://asia.siggraph.org/2025/). 
 - 2025.06: 🎉 one paper got accepted to [ICCV 2025](https://iccv.thecvf.com/Conferences/2025). 
 - 2025.05: 🎉 one paper got accepted to [SIGGRAPH 2025](https://s2025.siggraph.org/). 
 - 2025.05: 🎉 one paper got accepted to [TPAMI 2025](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34). 
@@ -39,7 +40,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 <!-- AnySplat -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/anysplat.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025 (ACM TOG)</div><img src='../images/anysplat.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views**
 
@@ -47,7 +48,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 [Yucheng Mao*](https://myc634.github.io/yuchengmao/),
 [Linning Xu](https://eveneveno.github.io/lnxu),
 [Tao Lu](https://inspirelt.github.io/),
-[Kerui Ren](https://github.com/tongji-rkr),
+[Kerui Ren](https://cskrren.github.io/),
 [Yichen Jin](),
 [Xudong Xu](https://scholar.google.com.hk/citations?user=D8VMkA8AAAAJ&hl=en),
 [Mulin Yu](https://scholar.google.com/citations?user=w0Od3hQAAAAJ),
@@ -63,6 +64,31 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 </div>
 </div>
 <!-- AnySplat -->
+
+
+<!-- MVColight -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/mvcolight.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**MV-CoLight: Efficient Object Compositing with Consistent Lighting and Shadow Generation**
+
+
+[Kerui Ren](https://cskrren.github.io/),
+[Jiayang Bai](https://scholar.google.com/citations?user=VmPQ6akAAAAJ&hl=zh-CN),
+[Linning Xu](https://eveneveno.github.io/lnxu),
+**Lihan Jiang\***,
+[Jiangmiao Pang](https://oceanpang.github.io/)
+[Mulin Yu<sup>†</sup>](https://scholar.google.com/citations?user=w0Od3hQAAAAJ),
+[Bo Dai<sup>†</sup>](https://daibo.info/)
+
+[[**Project**]](https://city-super.github.io/mvcolight/)&nbsp;
+[[**Paper**]](https://arxiv.org/pdf/2505.21483v1)&nbsp;
+[[**Code**]]()
+
+</div>
+</div>
+
+<!-- MVColight -->
 
 
 <!-- ObjectGS -->
@@ -81,8 +107,8 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 [Bo Dai<sup>†</sup>](https://daibo.info/), 
 
 [[**Project**]](https://ruijiezhu94.github.io/ObjectGS_page/)&nbsp;
-[[**Paper**]]()&nbsp;
-[[**Code**]]()
+[[**Paper**]](https://arxiv.org/pdf/2507.15454.pdf)&nbsp;
+[[**Code**]](https://github.com/RuijieZhu94/ObjectGS)
 
 </div>
 </div>
@@ -138,7 +164,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 **Horizon-GS: Unified 3D Gaussian Splatting for Large-Scale Aerial-to-Ground Scenes**
 
 **Lihan Jiang\***,
-[Kerui Ren*](https://github.com/tongji-rkr),
+[Kerui Ren*](https://cskrren.github.io/),
 [Mulin Yu](https://scholar.google.com/citations?user=w0Od3hQAAAAJ),
 [Linning Xu](https://eveneveno.github.io/lnxu),
 [Junting Dong](https://jtdong.com/),
@@ -161,7 +187,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 <div class='paper-box-text' markdown="1">
 **Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**
 
-[Kerui Ren*](https://github.com/tongji-rkr),
+[Kerui Ren*](https://cskrren.github.io/),
 **Lihan Jiang\***,
 [Tao Lu](https://inspirelt.github.io/),
 [Mulin Yu](https://scholar.google.com/citations?user=w0Od3hQAAAAJ),
