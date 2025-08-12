@@ -68,7 +68,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 <!-- MVColight -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/mvcolight.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/mvcolight.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **MV-CoLight: Efficient Object Compositing with Consistent Lighting and Shadow Generation**
 
