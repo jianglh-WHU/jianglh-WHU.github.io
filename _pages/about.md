@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a second-year Ph.D. student at [USTC](https://www.ustc.edu.cn/) and [Shanghai AI Laboratory](https://www.shlab.org.cn/). I am co-supervised by [Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm), [Bo Dai](https://daibo.info/), and [Dahua Lin](http://dahua.site/). Previously, I obtained my B.Eng. degree at [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University in 2023. 
 
-My research interest lies in the field of 3D Computer Vision, particularly neural rendering for large-scale scenes.
+My research interest lies in the field of 3D Computer Vision, particularly neural rendering for large-scale scenes and feed-forward reconstruction.
 
 
 # 🔥 News
@@ -76,7 +76,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 [Kerui Ren](https://cskrren.github.io/),
 [Jiayang Bai](https://scholar.google.com/citations?user=VmPQ6akAAAAJ&hl=zh-CN),
 [Linning Xu](https://eveneveno.github.io/lnxu),
-**Lihan Jiang\***,
+**Lihan Jiang**,
 [Jiangmiao Pang](https://oceanpang.github.io/)
 [Mulin Yu<sup>†</sup>](https://scholar.google.com/citations?user=w0Od3hQAAAAJ),
 [Bo Dai<sup>†</sup>](https://daibo.info/)
@@ -287,7 +287,13 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 **Reviewer**
 
-- NeurIPS24, ICLR25, EuroGraphics25, CVPR25, ICML25, SIGGRAPH25, ICCV 25
+- NeurIPS: 2024, 2025
+- ICLR: 2025
+- ICML: 2025
+- CVPR: 2025
+- EuroGraphics: 2025
+- SIGGRAPH: 2025
   
 # 💻 Internships
+- *2022.12 - present*, in [Shanghai AI Lab](https://www.shlab.org.cn/)
 - *2022.05 - 2022.11*, in [AIR, Tsinghua University](https://air.tsinghua.edu.cn/en/)
