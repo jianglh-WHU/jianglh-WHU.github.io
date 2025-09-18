@@ -23,6 +23,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 
 # 🔥 News
+- 2025.09: 🎉 one paper got accepted to [NeurIPS 2025](https://neurips.cc/Conferences/2025/). 
 - 2025.08: 🎉 one paper got accepted to [SIGGRAPH Asia 2025 (ACM TOG)](https://asia.siggraph.org/2025/). 
 - 2025.06: 🎉 one paper got accepted to [ICCV 2025](https://iccv.thecvf.com/Conferences/2025). 
 - 2025.05: 🎉 one paper got accepted to [SIGGRAPH 2025](https://s2025.siggraph.org/). 
@@ -68,7 +69,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 <!-- MVColight -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='../images/mvcolight.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='../images/mvcolight.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **MV-CoLight: Efficient Object Compositing with Consistent Lighting and Shadow Generation**
 
