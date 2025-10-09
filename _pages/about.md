@@ -289,7 +289,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 **Reviewer**
 
 - NeurIPS: 2024, 2025
-- ICLR: 2025
+- ICLR: 2025, 2026
 - ICML: 2025
 - CVPR: 2025
 - EuroGraphics: 2025
