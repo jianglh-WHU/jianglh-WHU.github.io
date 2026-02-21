@@ -23,7 +23,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 
 # 🔥 News
-- 2025.11: 🚀 our new work [G²VLM](https://gordonhu608.github.io/g2vlm.github.io/) is released. 
+- 2026.02: 🚀 one papers got accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026). 
 - 2025.09: 🎉 one paper got accepted to [NeurIPS 2025](https://neurips.cc/Conferences/2025/). 
 - 2025.08: 🎉 one paper got accepted to [SIGGRAPH Asia 2025 (ACM TOG)](https://asia.siggraph.org/2025/). 
 - 2025.06: 🎉 one paper got accepted to [ICCV 2025](https://iccv.thecvf.com/Conferences/2025). 
@@ -42,7 +42,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 <!-- G2VLM -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='../images/g2vlm_demo_2s.gif' alt="G2VLM demo gif" width="100%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../images/g2vlm_demo_2s.gif' alt="G2VLM demo gif" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 **G²VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning**
 
