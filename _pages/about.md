@@ -316,11 +316,196 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 - NeurIPS: 2024, 2025
 - ICLR: 2025, 2026
-- ICML: 2025
-- CVPR: 2025
+- ICML: 2025, 2026
+- CVPR: 2025, 2026
 - EuroGraphics: 2025
-- SIGGRAPH: 2025
+- SIGGRAPH: 2025, 2026
   
 # 💻 Internships
-- *2022.12 - present*, in [Shanghai AI Lab](https://www.shlab.org.cn/)
-- *2022.05 - 2022.11*, in [AIR, Tsinghua University](https://air.tsinghua.edu.cn/en/)
+
+<style>
+  .internship-list {
+    position: relative;
+    margin-top: 1rem;
+  }
+
+  .internship-list::before {
+    content: "";
+    position: absolute;
+    left: 36px;
+    top: 12px;
+    bottom: 12px;
+    width: 2px;
+    background: linear-gradient(180deg, #0f3d91 0%, #6d94d7 100%);
+    opacity: 0.22;
+  }
+
+  .internship-card {
+    position: relative;
+    display: flex;
+    gap: 18px;
+    align-items: flex-start;
+    margin-bottom: 22px;
+    padding: 20px 22px;
+    border-radius: 18px;
+    background: linear-gradient(135deg, #ffffff 0%, #f6f9ff 100%);
+    border: 1px solid rgba(15, 61, 145, 0.1);
+    box-shadow: 0 12px 28px rgba(15, 61, 145, 0.08);
+  }
+
+  .internship-logo-wrap {
+    position: relative;
+    z-index: 1;
+    flex-shrink: 0;
+    width: 72px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    background: #ffffff;
+    border: 1px solid rgba(15, 61, 145, 0.12);
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.08);
+  }
+
+  .internship-logo {
+    width: 52px;
+    height: 52px;
+    object-fit: contain;
+  }
+
+  .internship-content {
+    min-width: 0;
+    flex: 1;
+  }
+
+  .internship-title-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 14px;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .internship-title {
+    margin: 0;
+    font-size: 1.12em;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+  }
+
+  .internship-title a {
+    color: #0f3d91;
+    text-decoration: none;
+  }
+
+  .internship-title a:hover {
+    color: #1f5ed6;
+    text-decoration: underline;
+  }
+
+  .internship-badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.22rem 0.65rem;
+    border-radius: 999px;
+    background: rgba(15, 61, 145, 0.08);
+    color: #0f3d91;
+    font-size: 0.82em;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .internship-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .internship-meta-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0.42rem 0.78rem;
+    border-radius: 12px;
+    background: rgba(15, 61, 145, 0.05);
+    color: #4b5563;
+    font-size: 0.92em;
+    line-height: 1.4;
+  }
+
+  .internship-meta-item i {
+    color: #0f3d91;
+  }
+
+  @media (max-width: 768px) {
+    .internship-list::before {
+      left: 28px;
+    }
+
+    .internship-card {
+      gap: 14px;
+      padding: 16px;
+      border-radius: 16px;
+    }
+    
+    .internship-logo-wrap {
+      width: 56px;
+      height: 56px;
+      border-radius: 16px;
+    }
+    
+    .internship-logo {
+      width: 40px;
+      height: 40px;
+    }
+  }
+</style>
+
+<div class="internship-list">
+  <div class="internship-card">
+    <div class="internship-logo-wrap">
+      <img class="internship-logo" src="../images/qwen.png" alt="Qwen official logo">
+    </div>
+    <div class="internship-content">
+      <div class="internship-title-row">
+        <h3 class="internship-title"><a href="https://qwen.ai/">Qwen</a></h3>
+        <span class="internship-badge">Alibaba Group</span>
+      </div>
+      <div class="internship-meta">
+        <span class="internship-meta-item"><i class="far fa-calendar-alt"></i>Mar 2026 - Present</span>
+        <span class="internship-meta-item"><i class="far fa-user"></i>Supervised by <a href="https://chenfei-wu.github.io/">Chenfei Wu</a></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="internship-card">
+    <div class="internship-logo-wrap">
+      <img class="internship-logo" src="../images/shlab.jpeg" alt="Shanghai AI Laboratory official logo">
+    </div>
+    <div class="internship-content">
+      <div class="internship-title-row">
+        <h3 class="internship-title"><a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a></h3>
+      </div>
+      <div class="internship-meta">
+        <span class="internship-meta-item"><i class="far fa-calendar-alt"></i>Dec 2022 - Mar 2026</span>
+        <span class="internship-meta-item"><i class="far fa-user"></i>Supervised by <a href="https://daibo.info/">Bo Dai</a></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="internship-card">
+    <div class="internship-logo-wrap">
+      <img class="internship-logo" src="../images/air.jpeg" alt="AIR official logo">
+    </div>
+    <div class="internship-content">
+      <div class="internship-title-row">
+        <h3 class="internship-title"><a href="https://air.tsinghua.edu.cn/en/">AIR, Tsinghua University</a></h3>
+      </div>
+      <div class="internship-meta">
+        <span class="internship-meta-item"><i class="far fa-calendar-alt"></i>May 2022 - Nov 2022</span>
+        <span class="internship-meta-item"><i class="far fa-user"></i>Supervised by <a href="https://sites.google.com/view/fromandto">Hao Zhao</a></span>
+      </div>
+    </div>
+  </div>
+</div>
