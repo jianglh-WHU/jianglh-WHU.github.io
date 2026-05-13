@@ -23,6 +23,7 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 
 
 # 🔥 News
+- 2026.05: 🚀 We release [Qwen-Image-2.0](https://arxiv.org/abs/2605.10730) technical report.
 - 2026.02: 🚀 one papers got accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026). 
 - 2025.09: 🎉 one paper got accepted to [NeurIPS 2025](https://neurips.cc/Conferences/2025/). 
 - 2025.08: 🎉 one paper got accepted to [SIGGRAPH Asia 2025 (ACM TOG)](https://asia.siggraph.org/2025/). 
@@ -39,6 +40,19 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 # 📝 Publications 
 
 (†: corresponding author; * :equal contribution)
+
+
+<!-- Qwen-Image-2.0 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='../images/qwen-image-2.png' alt="sym" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+**Qwen-Image-2.0 Technical Report**
+
+Qwen Team (As the core contributor to this project)
+
+[[**Paper**]](https://arxiv.org/abs/2511.21688)
+
+</div>
+</div>
 
 <!-- G2VLM -->
 
