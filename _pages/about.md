@@ -17,29 +17,62 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Ph.D. student at [USTC](https://www.ustc.edu.cn/) and [Shanghai AI Laboratory](https://www.shlab.org.cn/). I am co-supervised by [Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm), [Bo Dai](https://daibo.info/), and [Dahua Lin](http://dahua.site/). Previously, I obtained my B.Eng. degree at [SGG](http://main.sgg.whu.edu.cn/) of Wuhan University in 2023. 
+I am a third-year Ph.D. student at [USTC](https://www.ustc.edu.cn/) and a Research Intern at [Qwen, Alibaba Group](https://qwen.ai/). I am co-supervised by [Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm), [Bo Dai](https://daibo.info/), and [Dahua Lin](http://dahua.site/). Previously, I conducted research at [Shanghai AI Laboratory](https://www.shlab.org.cn/) and received my B.Eng. from Wuhan University in 2023.
 
-My research interest lies in the field of 3D Computer Vision, particularly neural rendering for large-scale scenes and feed-forward reconstruction.
+<div class="focus-topics" markdown="1">
+**Some topics that I currently focus on include:**
+
+- **Controllable image generation and editing:** [Qwen-Image-3.0](https://qwen.ai/blog?id=qwen-image-3.0), [Qwen-Image-2.0](https://arxiv.org/abs/2605.10730)
+- **3D reconstruction and scalable neural rendering:** [AnySplat](https://city-super.github.io/anysplat/), [Horizon-GS](https://city-super.github.io/horizon-gs/), [Octree-GS](https://city-super.github.io/octree-gs/), [MatrixCity](https://city-super.github.io/matrixcity/)
+</div>
 
 
 # 🔥 News
-- 2026.05: 🚀 We release [Qwen-Image-2.0](https://arxiv.org/abs/2605.10730) technical report.
-- 2026.02: 🚀 one papers got accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026). 
-- 2025.09: 🎉 one paper got accepted to [NeurIPS 2025](https://neurips.cc/Conferences/2025/). 
-- 2025.08: 🎉 one paper got accepted to [SIGGRAPH Asia 2025 (ACM TOG)](https://asia.siggraph.org/2025/). 
-- 2025.06: 🎉 one paper got accepted to [ICCV 2025](https://iccv.thecvf.com/Conferences/2025). 
-- 2025.05: 🎉 one paper got accepted to [SIGGRAPH 2025](https://s2025.siggraph.org/). 
-- 2025.05: 🎉 one paper got accepted to [TPAMI 2025](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34). 
-- 2025.02: 🎉 two papers got accepted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025). 
-- 2024.09: 🎉 one paper got accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024). 
-- 2023.09: 🎉 one paper got accepted to [NeurIPS 2023 D&B Track](https://nips.cc/Conferences/2023/CallForDatasetsBenchmarks). 
-- 2023.07: 🎉 our [LandMark System](https://landmark.intern-ai.org.cn/) was released.
-- *2023.07*: 🎉 one paper got accepted to [ICCV 2023](https://iccv2023.thecvf.com/). 
-- 2023.06: 🎓 Graduated from Wuhan University.
+<div class="news-list" markdown="1">
+- **2026.08.05** &emsp; We’re excited to celebrate the release of [Qwen-Image-3.0](https://qwen.ai/blog?id=qwen-image-3.0)! Congratulations to the whole team, and I’m delighted to work with so many talented people. Many thanks to [Arena.ai](https://x.com/arena) for featuring Qwen-Image-3.0-Pro at **#5 with 1,263 points** on the Text-to-Image Arena, up from #15 and 1,191 points for Qwen-Image-2.0-Pro. [[**Leaderboard**]](https://arena.ai/leaderboard)
+- **2026.05** &emsp; We released the [Qwen-Image-2.0](https://arxiv.org/abs/2605.10730) Technical Report.
+- **2026.02** &emsp; One paper was accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).
+- **2025.09** &emsp; One paper was accepted to [NeurIPS 2025](https://neurips.cc/Conferences/2025/).
+- **2025.08** &emsp; One paper was accepted to [SIGGRAPH Asia 2025 (ACM TOG)](https://asia.siggraph.org/2025/).
 
-# 📝 Publications 
+<details class="news-archive">
+<summary>Earlier news</summary>
+<div markdown="1">
 
-(†: corresponding author; * :equal contribution)
+- **2025.06** &emsp; One paper was accepted to [ICCV 2025](https://iccv.thecvf.com/Conferences/2025).
+- **2025.05** &emsp; One paper was accepted to [SIGGRAPH 2025](https://s2025.siggraph.org/).
+- **2025.05** &emsp; One paper was accepted to [TPAMI 2025](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
+- **2025.02** &emsp; Two papers were accepted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).
+- **2024.09** &emsp; One paper was accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024).
+- **2023.09** &emsp; One paper was accepted to [NeurIPS 2023 D&B Track](https://nips.cc/Conferences/2023/CallForDatasetsBenchmarks).
+- **2023.07** &emsp; Our [LandMark System](https://landmark.intern-ai.org.cn/) was released.
+- **2023.07** &emsp; One paper was accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
+- **2023.06** &emsp; Graduated from Wuhan University.
+
+</div>
+</details>
+</div>
+
+# 📝 Selected Research
+
+(† corresponding author; * equal contribution)
+
+<!-- Qwen-Image-3.0 -->
+<div class='paper-box paper-box--featured'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='../images/qwen-image-3.jpg' alt="Qwen-Image-3.0 release visual" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+**Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge**
+
+Qwen Team · **Core Contributor**
+
+Built for useful visual work with prompts up to 4.5K tokens, legible text down to 10 px, native rendering in 12 languages, knowledge-rich generation, and realistic interfaces.
+
+[[**Blog**]](https://qwen.ai/blog?id=qwen-image-3.0)&nbsp;
+[[**Try Qwen**]](https://chat.qwen.ai/?inputFeature=t2i)&nbsp;
+[[**API**]](https://www.alibabacloud.com/help/en/model-studio/qwen-image-generation-and-editing-api-reference)
+
+</div>
+</div>
+<!-- Qwen-Image-3.0 -->
 
 
 <!-- Qwen-Image-2.0 -->
@@ -47,9 +80,9 @@ My research interest lies in the field of 3D Computer Vision, particularly neura
 <div class='paper-box-text' markdown="1">
 **Qwen-Image-2.0 Technical Report**
 
-Qwen Team (As the core contributor to this project)
+Qwen Team · **Core Contributor**
 
-[[**Paper**]](https://arxiv.org/abs/2511.21688)
+[[**Paper**]](https://arxiv.org/abs/2605.10730)
 
 </div>
 </div>
@@ -90,10 +123,10 @@ Qwen Team (As the core contributor to this project)
 [Linning Xu](https://eveneveno.github.io/lnxu),
 [Tao Lu](https://inspirelt.github.io/),
 [Kerui Ren](https://cskrren.github.io/),
-[Yichen Jin](),
+Yichen Jin,
 [Xudong Xu](https://scholar.google.com.hk/citations?user=D8VMkA8AAAAJ&hl=en),
 [Mulin Yu](https://scholar.google.com/citations?user=w0Od3hQAAAAJ),
-[Jiangmiao Pang](https://oceanpang.github.io/)
+[Jiangmiao Pang](https://oceanpang.github.io/),
 [Feng Zhao](https://scholar.google.co.uk/citations?user=r6CvuOUAAAAJ&hl=en),
 [Dahua Lin](http://dahua.site/),
 [Bo Dai<sup>†</sup>](https://daibo.info/)
@@ -118,13 +151,12 @@ Qwen Team (As the core contributor to this project)
 [Jiayang Bai](https://scholar.google.com/citations?user=VmPQ6akAAAAJ&hl=zh-CN),
 [Linning Xu](https://eveneveno.github.io/lnxu),
 **Lihan Jiang**,
-[Jiangmiao Pang](https://oceanpang.github.io/)
+[Jiangmiao Pang](https://oceanpang.github.io/),
 [Mulin Yu<sup>†</sup>](https://scholar.google.com/citations?user=w0Od3hQAAAAJ),
 [Bo Dai<sup>†</sup>](https://daibo.info/)
 
 [[**Project**]](https://city-super.github.io/mvcolight/)&nbsp;
-[[**Paper**]](https://arxiv.org/pdf/2505.21483v1)&nbsp;
-[[**Code**]]()
+[[**Paper**]](https://arxiv.org/pdf/2505.21483v1)
 
 </div>
 </div>
@@ -190,9 +222,7 @@ Qwen Team (As the core contributor to this project)
 [Yiping Chen](https://scholar.google.com/citations?user=e9lv2fUAAAAJ&hl=en), 
 [Ting Han](https://scholar.google.com/citations?user=IVWx-jwAAAAJ&hl=zh-CN)
 
-[[**Project**]]()&nbsp;
-[[**Paper**]](https://arxiv.org/pdf/2504.00387)&nbsp;
-[[**Code**]]()
+[[**Paper**]](https://arxiv.org/pdf/2504.00387)
 
 </div>
 </div>
@@ -319,12 +349,12 @@ Qwen Team (As the core contributor to this project)
 - The First Prize Scholarship, WHU, 2021
 - The First Prize Scholarship, WHU, 2020
 
-# 📖 Educations
-- Ph.D. in Control Science and Engineering of [University of Science and Technology of China](https://www.ustc.edu.cn/), 2023.09 - present
-- B.S. in Geodesy and Geomatics Engineering of [Wuhan University](https://www.whu.edu.cn/), 2019.09 - 2023.06
+# 📖 Education
+- Ph.D. in Control Science and Engineering, [University of Science and Technology of China](https://www.ustc.edu.cn/), Sep 2023 - Jun 2028 (expected)
+- B.Eng. in Geodesy and Geomatics Engineering, [Wuhan University](https://www.whu.edu.cn/), Sep 2019 - Jun 2023
   - GPA: 3.95/4.00, Rank: 1/225
 
-# 🧐 Community Services
+# 🧐 Academic Service
 
 **Reviewer**
 
@@ -335,7 +365,7 @@ Qwen Team (As the core contributor to this project)
 - EuroGraphics: 2025
 - SIGGRAPH: 2025, 2026
   
-# 💻 Internships
+# 💻 Research Experience
 
 <style>
   .internship-list {
@@ -361,10 +391,10 @@ Qwen Team (As the core contributor to this project)
     align-items: flex-start;
     margin-bottom: 22px;
     padding: 20px 22px;
-    border-radius: 18px;
-    background: linear-gradient(135deg, #ffffff 0%, #f6f9ff 100%);
-    border: 1px solid rgba(15, 61, 145, 0.1);
-    box-shadow: 0 12px 28px rgba(15, 61, 145, 0.08);
+    border-radius: 8px;
+    background: #ffffff;
+    border: 1px solid #dfe5ea;
+    box-shadow: 0 6px 18px rgba(24, 51, 68, 0.06);
   }
 
   .internship-logo-wrap {
@@ -376,7 +406,7 @@ Qwen Team (As the core contributor to this project)
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 20px;
+    border-radius: 8px;
     background: #ffffff;
     border: 1px solid rgba(15, 61, 145, 0.12);
     box-shadow: 0 8px 18px rgba(0, 0, 0, 0.08);
@@ -460,13 +490,13 @@ Qwen Team (As the core contributor to this project)
     .internship-card {
       gap: 14px;
       padding: 16px;
-      border-radius: 16px;
+      border-radius: 8px;
     }
     
     .internship-logo-wrap {
       width: 56px;
       height: 56px;
-      border-radius: 16px;
+      border-radius: 8px;
     }
     
     .internship-logo {
@@ -483,8 +513,8 @@ Qwen Team (As the core contributor to this project)
     </div>
     <div class="internship-content">
       <div class="internship-title-row">
-        <h3 class="internship-title"><a href="https://qwen.ai/">Qwen</a></h3>
-        <span class="internship-badge">Alibaba Group</span>
+        <h3 class="internship-title"><a href="https://qwen.ai/">Qwen</a>, Alibaba Group</h3>
+        <span class="internship-badge">Research Intern</span>
       </div>
       <div class="internship-meta">
         <span class="internship-meta-item"><i class="far fa-calendar-alt"></i>Mar 2026 - Present</span>
@@ -500,6 +530,7 @@ Qwen Team (As the core contributor to this project)
     <div class="internship-content">
       <div class="internship-title-row">
         <h3 class="internship-title"><a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a></h3>
+        <span class="internship-badge">Research Intern</span>
       </div>
       <div class="internship-meta">
         <span class="internship-meta-item"><i class="far fa-calendar-alt"></i>Dec 2022 - Mar 2026</span>
@@ -515,6 +546,7 @@ Qwen Team (As the core contributor to this project)
     <div class="internship-content">
       <div class="internship-title-row">
         <h3 class="internship-title"><a href="https://air.tsinghua.edu.cn/en/">AIR, Tsinghua University</a></h3>
+        <span class="internship-badge">Research Intern</span>
       </div>
       <div class="internship-meta">
         <span class="internship-meta-item"><i class="far fa-calendar-alt"></i>May 2022 - Nov 2022</span>
