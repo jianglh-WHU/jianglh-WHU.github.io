@@ -190,6 +190,21 @@ h1:before, .anchor:before {
     z-index: 2;
 }
 
+.github-stars {
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+    text-decoration: none;
+
+    img {
+        display: block;
+        width: auto;
+        height: 20px;
+        border: 0;
+        box-shadow: none;
+    }
+}
+
 .page__content {
     color: #37434d;
 

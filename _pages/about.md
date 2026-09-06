@@ -29,7 +29,8 @@ I am a third-year Ph.D. student at [USTC](https://www.ustc.edu.cn/) and a Resear
 
 # 🔥 News
 <div class="news-list" markdown="1">
-- **2026.08.05** &emsp; We’re excited to celebrate the release of [Qwen-Image-3.0](https://qwen.ai/blog?id=qwen-image-3.0)! Congratulations to the whole team, and I’m delighted to work with so many talented people. Many thanks to [Arena.ai](https://x.com/arena) for featuring Qwen-Image-3.0-Pro at **#5 with 1,263 points** on the Text-to-Image Arena, up from #15 and 1,191 points for Qwen-Image-2.0-Pro. [[**Leaderboard**]](https://arena.ai/leaderboard)
+- **2026.08** &emsp; Two papers were accepted to the main track of [EMNLP 2026](https://2026.emnlp.org/).
+- **2026.08** &emsp; We’re excited to celebrate the release of [Qwen-Image-3.0](https://qwen.ai/blog?id=qwen-image-3.0)! Congratulations to the whole team, and I’m delighted to work with so many talented people. Many thanks to [Arena.ai](https://x.com/arena) for featuring Qwen-Image-3.0-Pro at **#5 with 1,263 points** on the Text-to-Image Arena, up from #15 and 1,191 points for Qwen-Image-2.0-Pro. [[**Leaderboard**]](https://arena.ai/leaderboard)
 - **2026.05** &emsp; We released the [Qwen-Image-2.0](https://arxiv.org/abs/2605.10730) Technical Report.
 - **2026.02** &emsp; One paper was accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).
 - **2025.09** &emsp; One paper was accepted to [NeurIPS 2025](https://neurips.cc/Conferences/2025/).
@@ -53,9 +54,7 @@ I am a third-year Ph.D. student at [USTC](https://www.ustc.edu.cn/) and a Resear
 </details>
 </div>
 
-# 📝 Selected Research
-
-(† corresponding author; * equal contribution)
+# 🔖 Technical Reports
 
 <!-- Qwen-Image-3.0 -->
 <div class='paper-box paper-box--featured'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='../images/qwen-image-3.jpg' alt="Qwen-Image-3.0 release visual" width="100%" loading="lazy"></div></div>
@@ -74,18 +73,119 @@ Built for useful visual work with prompts up to 4.5K tokens, legible text down t
 </div>
 <!-- Qwen-Image-3.0 -->
 
+<!-- Qwen-Image-2.0-RL -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='../images/qwen-image-2.0-RL.png' alt="Qwen-Image-2.0-RL training pipeline" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+**Qwen-Image-2.0-RL Technical Report**
+
+Qwen Team
+
+A post-training pipeline combining task-specific reward models, GRPO-based reinforcement learning, and on-policy distillation to improve visual quality, instruction following, editing accuracy, and face identity preservation.
+
+[[**Paper**]](https://arxiv.org/abs/2606.27608)
+
+</div>
+</div>
+<!-- Qwen-Image-2.0-RL -->
+
+<!-- Qwen-Image-Agent -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='../images/qwen-image-agent.png' alt="Qwen-Image-Agent capabilities and examples" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+**Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation**
+
+Qwen Team
+
+A context-centric image generation agent that plans for missing information and grounds requests through reasoning, search, memory, and feedback, turning underspecified user intent into reliable generation context.
+
+[[**Paper**]](https://arxiv.org/abs/2606.26907)
+
+</div>
+</div>
+<!-- Qwen-Image-Agent -->
+
+<!-- Qwen-RobotWorld -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='../images/qwen-robotworld.png' alt="Qwen-RobotWorld model architecture" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+**Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation**
+
+Qwen Team
+
+A language-conditioned video world model that predicts physically grounded future trajectories across robotic manipulation, autonomous driving, indoor navigation, and human-to-robot transfer.
+
+[[**Paper**]](https://arxiv.org/abs/2606.17030)&nbsp;
+[[**Blog**]](https://qwen.ai/blog?id=qwen-robotworld)
+
+</div>
+</div>
+<!-- Qwen-RobotWorld -->
+
+<!-- Qwen-Image-Flash -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='../images/qwen-image-flash.png' alt="Qwen-Image-Flash generation and editing examples" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+**Qwen-Image-Flash: Beyond Objective Design**
+
+Qwen Team
+
+A unified 4-NFE model for fast text-to-image generation and instruction-guided editing, developed through a systematic study of data composition, multi-teacher guidance, and generation-editing task mixtures.
+
+[[**Paper**]](https://arxiv.org/abs/2606.03746)
+
+</div>
+</div>
+<!-- Qwen-Image-Flash -->
+
+<!-- Qwen-Image-VAE-2.0 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='../images/qwen-image-vae.png' alt="Qwen-Image-VAE-2.0 text reconstruction comparison" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+**Qwen-Image-VAE-2.0 Technical Report**
+
+Qwen Team
+
+A high-compression VAE suite designed for strong reconstruction fidelity and diffusion-friendly latent representations, with particular gains on text-rich imagery and efficient encoding.
+
+[[**Paper**]](https://arxiv.org/abs/2605.13565)&nbsp;
+[[**Benchmark Code**]](https://github.com/alibaba/OmniDoc-TokenBench)&nbsp;
+<a class="github-stars" href="https://github.com/alibaba/OmniDoc-TokenBench" aria-label="GitHub stars for OmniDoc-TokenBench"><img src="https://img.shields.io/github/stars/alibaba/OmniDoc-TokenBench?style=social&amp;label=Stars" alt="GitHub stars for OmniDoc-TokenBench" loading="lazy"></a>
+
+</div>
+</div>
+<!-- Qwen-Image-VAE-2.0 -->
 
 <!-- Qwen-Image-2.0 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='../images/qwen-image-2.png' alt="sym" width="100%" loading="lazy"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='../images/qwen-image-2.png' alt="Qwen-Image-2.0 generation and editing examples" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 **Qwen-Image-2.0 Technical Report**
 
 Qwen Team · **Core Contributor**
 
+Qwen-Image-2.0 is an omni-capable image generation foundation model that integrates high-fidelity image creation and precise image editing into a single unified framework.
+
 [[**Paper**]](https://arxiv.org/abs/2605.10730)
 
 </div>
 </div>
+<!-- Qwen-Image-2.0 -->
+
+# 📝 Research Papers
+
+(† corresponding author; * equal contribution)
+
+<!-- Qwen-Image-Bench -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='../images/qwen-image-bench.png' alt="sym" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+**Qwen-Image-Bench: From Generation to Creation in Text-to-Image Evaluation**
+
+Qwen Team
+
+Qwen-Image-Bench is a creator-centric benchmark for evaluating text-to-image models with fine-grained, expert-aligned scoring.
+
+[[**Paper**]](https://arxiv.org/abs/2605.28091)&nbsp;
+[[**Code**]](https://github.com/QwenLM/Qwen-Image-Bench)&nbsp;
+<a class="github-stars" href="https://github.com/QwenLM/Qwen-Image-Bench" aria-label="GitHub stars for Qwen-Image-Bench"><img src="https://img.shields.io/github/stars/QwenLM/Qwen-Image-Bench?style=social&amp;label=Stars" alt="GitHub stars for Qwen-Image-Bench" loading="lazy"></a>
+
+</div>
+</div>
+<!-- Qwen-Image-Bench -->
 
 <!-- G2VLM -->
 
@@ -106,7 +206,8 @@ Qwen Team · **Core Contributor**
 
 [[**Project**]](https://gordonhu608.github.io/g2vlm.github.io/)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2511.21688)&nbsp;
-[[**Code**]](https://github.com/InternRobotics/G2VLM)
+[[**Code**]](https://github.com/InternRobotics/G2VLM)&nbsp;
+<a class="github-stars" href="https://github.com/InternRobotics/G2VLM" aria-label="GitHub stars for G2VLM"><img src="https://img.shields.io/github/stars/InternRobotics/G2VLM?style=social&amp;label=Stars" alt="GitHub stars for G2VLM" loading="lazy"></a>
 
 </div>
 </div>
@@ -133,7 +234,8 @@ Yichen Jin,
 
 [[**Project**]](https://city-super.github.io/anysplat/)&nbsp;
 [[**Paper**]](https://arxiv.org/pdf/2505.23716)&nbsp;
-[[**Code**]](https://github.com/OpenRobotLab/AnySplat)
+[[**Code**]](https://github.com/OpenRobotLab/AnySplat)&nbsp;
+<a class="github-stars" href="https://github.com/OpenRobotLab/AnySplat" aria-label="GitHub stars for AnySplat"><img src="https://img.shields.io/github/stars/OpenRobotLab/AnySplat?style=social&amp;label=Stars" alt="GitHub stars for AnySplat" loading="lazy"></a>
 
 </div>
 </div>
@@ -181,7 +283,8 @@ Yichen Jin,
 
 [[**Project**]](https://ruijiezhu94.github.io/ObjectGS_page/)&nbsp;
 [[**Paper**]](https://arxiv.org/pdf/2507.15454.pdf)&nbsp;
-[[**Code**]](https://github.com/RuijieZhu94/ObjectGS)
+[[**Code**]](https://github.com/RuijieZhu94/ObjectGS)&nbsp;
+<a class="github-stars" href="https://github.com/RuijieZhu94/ObjectGS" aria-label="GitHub stars for ObjectGS"><img src="https://img.shields.io/github/stars/RuijieZhu94/ObjectGS?style=social&amp;label=Stars" alt="GitHub stars for ObjectGS" loading="lazy"></a>
 
 </div>
 </div>
@@ -201,7 +304,8 @@ Yichen Jin,
 
 [[**Project**]](https://xijie-yang.github.io/V3DG/)&nbsp;
 [[**Paper**]](https://arxiv.org/pdf/2505.06523)&nbsp;
-[[**Code**]](https://github.com/city-super/V3DG)
+[[**Code**]](https://github.com/city-super/V3DG)&nbsp;
+<a class="github-stars" href="https://github.com/city-super/V3DG" aria-label="GitHub stars for V3DG"><img src="https://img.shields.io/github/stars/city-super/V3DG?style=social&amp;label=Stars" alt="GitHub stars for V3DG" loading="lazy"></a>
 
 </div>
 </div>
@@ -246,7 +350,8 @@ Yichen Jin,
 
 [[**Project**]](https://city-super.github.io/horizon-gs/)&nbsp;
 [[**Paper**]](https://arxiv.org/pdf/2412.01745)&nbsp;
-[[**Code**]](https://github.com/OpenRobotLab/HorizonGS)
+[[**Code**]](https://github.com/OpenRobotLab/HorizonGS)&nbsp;
+<a class="github-stars" href="https://github.com/OpenRobotLab/HorizonGS" aria-label="GitHub stars for Horizon-GS"><img src="https://img.shields.io/github/stars/OpenRobotLab/HorizonGS?style=social&amp;label=Stars" alt="GitHub stars for Horizon-GS" loading="lazy"></a>
 
 </div>
 </div>
@@ -268,7 +373,8 @@ Yichen Jin,
 
 [[**Project**]](https://city-super.github.io/octree-gs/)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2403.17898)&nbsp;
-[[**Code**]](https://github.com/city-super/Octree-GS)
+[[**Code**]](https://github.com/city-super/Octree-GS)&nbsp;
+<a class="github-stars" href="https://github.com/city-super/Octree-GS" aria-label="GitHub stars for Octree-GS"><img src="https://img.shields.io/github/stars/city-super/Octree-GS?style=social&amp;label=Stars" alt="GitHub stars for Octree-GS" loading="lazy"></a>
 
 </div>
 </div>
@@ -289,7 +395,8 @@ Yichen Jin,
 
 [[**Project**]](https://city-super.github.io/GSDF/)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2403.16964)&nbsp;
-[[**Code**]](https://github.com/city-super/GSDF)
+[[**Code**]](https://github.com/city-super/GSDF)&nbsp;
+<a class="github-stars" href="https://github.com/city-super/GSDF" aria-label="GitHub stars for GSDF"><img src="https://img.shields.io/github/stars/city-super/GSDF?style=social&amp;label=Stars" alt="GitHub stars for GSDF" loading="lazy"></a>
 
 </div>
 </div>
@@ -313,7 +420,8 @@ Yichen Jin,
 
 [[**Project**]](https://github.com/EricLee0224/PAD)&nbsp;
 [[**Paper**]](https://arxiv.org/pdf/2310.07716.pdf)&nbsp;
-[[**Code**]](https://github.com/EricLee0224/PAD)
+[[**Code**]](https://github.com/EricLee0224/PAD)&nbsp;
+<a class="github-stars" href="https://github.com/EricLee0224/PAD" aria-label="GitHub stars for PAD"><img src="https://img.shields.io/github/stars/EricLee0224/PAD?style=social&amp;label=Stars" alt="GitHub stars for PAD" loading="lazy"></a>
 
 </div>
 </div>
@@ -336,7 +444,8 @@ Yichen Jin,
 
 [[**Project**]](https://city-super.github.io/matrixcity/)&nbsp;
 [[**Paper**]](https://arxiv.org/pdf/2309.16553v1.pdf)&nbsp;
-[[**Code**]](https://github.com/city-super/MatrixCity)
+[[**Code**]](https://github.com/city-super/MatrixCity)&nbsp;
+<a class="github-stars" href="https://github.com/city-super/MatrixCity" aria-label="GitHub stars for MatrixCity"><img src="https://img.shields.io/github/stars/city-super/MatrixCity?style=social&amp;label=Stars" alt="GitHub stars for MatrixCity" loading="lazy"></a>
 
 </div>
 </div>
