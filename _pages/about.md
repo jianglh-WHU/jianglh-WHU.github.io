@@ -22,13 +22,14 @@ I am a third-year Ph.D. student at [USTC](https://www.ustc.edu.cn/) and a Resear
 <div class="focus-topics" markdown="1">
 **Some topics that I currently focus on include:**
 
-- **Controllable image generation and editing:** [Qwen-Image-3.0](https://qwen.ai/blog?id=qwen-image-3.0), [Qwen-Image-2.0](https://arxiv.org/abs/2605.10730)
+- **Controllable image generation and editing:** [Qwen-Image-3.0](https://qwen.ai/blog?id=qwen-image-3.0), [Qwen-Image-2.1](https://qwen.ai/blog?id=qwen-image-2.1), [Qwen-Image-2.0](https://arxiv.org/abs/2605.10730)
 - **3D reconstruction and scalable neural rendering:** [AnySplat](https://city-super.github.io/anysplat/), [Horizon-GS](https://city-super.github.io/horizon-gs/), [Octree-GS](https://city-super.github.io/octree-gs/), [MatrixCity](https://city-super.github.io/matrixcity/)
 </div>
 
 
 # 🔥 News
 <div class="news-list" markdown="1">
+- **2026.09** &emsp; We released [**Qwen-Image-2.1**](https://qwen.ai/blog?id=qwen-image-2.1), a unified text-to-image generation and image editing model in the Qwen family. With just **7B parameters in its visual generation component**, it balances generation quality, inference efficiency, and versatility.
 - **2026.08** &emsp; Two papers were accepted to the main track of [EMNLP 2026](https://2026.emnlp.org/).
 - **2026.08** &emsp; We’re excited to celebrate the release of [Qwen-Image-3.0](https://qwen.ai/blog?id=qwen-image-3.0)! Congratulations to the whole team, and I’m delighted to work with so many talented people. Many thanks to [Arena.ai](https://x.com/arena) for featuring Qwen-Image-3.0-Pro at **#5 with 1,263 points** on the Text-to-Image Arena, up from #15 and 1,191 points for Qwen-Image-2.0-Pro. [[**Leaderboard**]](https://arena.ai/leaderboard)
 - **2026.05** &emsp; We released the [Qwen-Image-2.0](https://arxiv.org/abs/2605.10730) Technical Report.
@@ -55,6 +56,24 @@ I am a third-year Ph.D. student at [USTC](https://www.ustc.edu.cn/) and a Resear
 </div>
 
 # 🔖 Technical Reports
+
+<!-- Qwen-Image-2.1 -->
+<div class='paper-box'><div class='paper-box-image' style="background: transparent;"><div style="width: 100%;"><div class="badge">Model Release</div><a href='../images/qwen-image-2.1.png' target="_blank" rel="noopener" aria-label="View full-size Qwen-Image-2.1 comparison chart" style="display: block; aspect-ratio: 16 / 9; overflow: hidden; border-radius: 4px;"><img src='../images/qwen-image-2.1.png' alt="Qwen-Image-2.1 model score and parameter comparison" style="height: 100%; width: auto; max-width: none; aspect-ratio: auto;" width="100%" loading="lazy"></a></div></div>
+<div class='paper-box-text' markdown="1">
+**Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation**
+
+Qwen Team
+
+A unified image generation and editing model with a 7B visual generation component, native transparent image generation and editing, support for up to 10 reference images, and flexible local editing.
+
+[[**Blog**]](https://qwen.ai/blog?id=qwen-image-2.1)&nbsp;
+[[**Hugging Face**]](https://huggingface.co/Qwen/Qwen-Image-2.1)&nbsp;
+[[**Code**]](https://github.com/QwenLM/Qwen-Image-2.1)&nbsp;
+<a class="github-stars" href="https://github.com/QwenLM/Qwen-Image-2.1" aria-label="GitHub stars for Qwen-Image-2.1"><img src="https://img.shields.io/github/stars/QwenLM/Qwen-Image-2.1?style=social&amp;label=Stars" alt="GitHub stars for Qwen-Image-2.1" loading="lazy"></a>
+
+</div>
+</div>
+<!-- Qwen-Image-2.1 -->
 
 <!-- Qwen-Image-3.0 -->
 <div class='paper-box paper-box--featured'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='../images/qwen-image-3.jpg' alt="Qwen-Image-3.0 release visual" width="100%" loading="lazy"></div></div>
