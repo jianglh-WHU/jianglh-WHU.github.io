@@ -62,7 +62,7 @@ I am a third-year Ph.D. student at [USTC](https://www.ustc.edu.cn/) and a Resear
 <div class='paper-box-text' markdown="1">
 **Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation**
 
-Qwen Team
+Qwen Team · **Core Contributor**
 
 A unified image generation and editing model with a 7B visual generation component, native transparent image generation and editing, support for up to 10 reference images, and flexible local editing.
 
